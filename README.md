@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/the-radio-still-says-your-name/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for The Radio Still Says Your Name](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/the-radio-still-says-your-name/) |
+| **Get License** | [License this song: The Radio Still Says Your Name](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/the-radio-still-says-your-name/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I trace the static on the midnight dial
+> Hoping the frequency will catch your smile
+> The dashboard glows and softly starts to frame
+> The way the radio still says your name
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
