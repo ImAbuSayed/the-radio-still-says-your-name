@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/the-radio-still-says-your-name/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: The Radio Still Says Your Name](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/the-radio-still-says-your-name/) |
+| **Get License** | [Get License For The Radio Still Says Your Name](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/the-radio-still-says-your-name/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9d49cfbd38ee1503d00578f9d6e19ed5a8c4c1f8b5e65863b4ac8e8b7594c357` |
 | **Timestamp** | May 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

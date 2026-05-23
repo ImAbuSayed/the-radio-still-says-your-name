@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - The Radio Still Says Your Name
+
+This log tracks the cryptographic history and versioning for the song **The Radio Still Says Your Name** (the-radio-still-says-your-name).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-24T05:43:34.252488 | `v1` | `9d49cfbd38ee1503d00578f9d6e19ed5a8c4c1f8b5e65863b4ac8e8b7594c357` | `bd37dfd4b24d5268ba20d79d908825e822fa0b608f320d173669efeacb228375` | `2026-05-24_the-radio-still-says-your-name-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
